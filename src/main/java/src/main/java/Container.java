@@ -7,7 +7,7 @@ import java.util.List;
 public class Container < T extends Student> {
    private T t;
 
-   public T getValue(){
+   public T getT(){
        return t;
    }
 
