@@ -1,6 +1,6 @@
 package src.main.java.office;
 
-public class Boss extends Worker{
+public class Boss extends Worker {
     String privateOffice;
 
     public Boss(String name, String lastName, int salary) {

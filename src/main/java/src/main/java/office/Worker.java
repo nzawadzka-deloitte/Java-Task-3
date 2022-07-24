@@ -1,5 +1,7 @@
 package src.main.java.office;
 
+import src.main.java.office.Student;
+
 public class Worker extends Student {
     int prize;
     int holiday;
